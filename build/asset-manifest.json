@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f863f8e.chunk.css",
+    "main.js": "/static/js/main.f5eaf611.chunk.js",
+    "main.js.map": "/static/js/main.f5eaf611.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3547995.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3547995.js.map",
+    "static/css/2.024cb9eb.chunk.css": "/static/css/2.024cb9eb.chunk.css",
+    "static/js/2.8e7047da.chunk.js": "/static/js/2.8e7047da.chunk.js",
+    "static/js/2.8e7047da.chunk.js.map": "/static/js/2.8e7047da.chunk.js.map",
+    "static/js/3.fb1ae3b5.chunk.js": "/static/js/3.fb1ae3b5.chunk.js",
+    "static/js/3.fb1ae3b5.chunk.js.map": "/static/js/3.fb1ae3b5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.024cb9eb.chunk.css.map": "/static/css/2.024cb9eb.chunk.css.map",
+    "static/css/main.6f863f8e.chunk.css.map": "/static/css/main.6f863f8e.chunk.css.map",
+    "static/js/2.8e7047da.chunk.js.LICENSE.txt": "/static/js/2.8e7047da.chunk.js.LICENSE.txt",
+    "static/media/[RGB] BOX2HELP-crna.b0ecdbe4.png": "/static/media/[RGB] BOX2HELP-crna.b0ecdbe4.png",
+    "static/media/[RGB] BOX2HELP-crvena.648cb5be.png": "/static/media/[RGB] BOX2HELP-crvena.648cb5be.png",
+    "static/media/[RGB] BOX2HELP-plava.1f2e1125.png": "/static/media/[RGB] BOX2HELP-plava.1f2e1125.png",
+    "static/media/b2help-dobitnik.9d4eae3e.jpg": "/static/media/b2help-dobitnik.9d4eae3e.jpg",
+    "static/media/custom-paket-en.5d6c71ce.png": "/static/media/custom-paket-en.5d6c71ce.png",
+    "static/media/custom-paket-mk.06d6a761.png": "/static/media/custom-paket-mk.06d6a761.png",
+    "static/media/do-more-srce.6cca6626.png": "/static/media/do-more-srce.6cca6626.png",
+    "static/media/do_more_logo.60d34bde.png": "/static/media/do_more_logo.60d34bde.png",
+    "static/media/do_more_logo_4.6666833e.png": "/static/media/do_more_logo_4.6666833e.png",
+    "static/media/domore-cover.a44f45b8.png": "/static/media/domore-cover.a44f45b8.png",
+    "static/media/family.512d8b7f.svg": "/static/media/family.512d8b7f.svg",
+    "static/media/icon-chevron-right.ce1805c6.svg": "/static/media/icon-chevron-right.ce1805c6.svg",
+    "static/media/ljubeznost-logo-100-sb.37cf8ba7.png": "/static/media/ljubeznost-logo-100-sb.37cf8ba7.png",
+    "static/media/paketmk-logo.5496af65.png": "/static/media/paketmk-logo.5496af65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3547995.js",
+    "static/css/2.024cb9eb.chunk.css",
+    "static/js/2.8e7047da.chunk.js",
+    "static/css/main.6f863f8e.chunk.css",
+    "static/js/main.f5eaf611.chunk.js"
+  ]
+}
